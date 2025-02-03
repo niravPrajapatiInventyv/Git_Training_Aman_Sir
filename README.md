@@ -3,7 +3,7 @@
 
 # Git Branching Task
 
-## 📸 Screenshot of the Task
+## 🌟Screenshot of the Task
 
 ![Task Screenshot](gitTree.png)
 
@@ -86,3 +86,12 @@ git commit -m "release v1.1"
 git commit -m "release v1.2"
 git merge release -m "release v1.3"
 ```
+### Command that Use
+
+1. `git checkout -b <branch-name>` : Create new branch.
+2. `git checkout <branch-name>`: Switching between branches.
+3. `git merge <branch-name> -m "message"`: Merge other branch into current branch.
+
+
+# PR Request 
+
