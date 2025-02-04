@@ -95,3 +95,28 @@ git merge release -m "release v1.3"
 
 # PR Request 
 
+### 1. Create Branch Protection Rule
+
+![Task Screenshot](git_t_1.png)
+
+![Task Screenshot](git_t_2.png)
+
+
+### 2. Open Second Account then Fork the git repo.
+
+### 3. Open Vscode Terminal or CMD and clone Fork repo to Local.
+![Task Screenshot](git_colne.png)
+
+### 4. change in Code base and push to the repo.
+![Task Screenshot](git_apply_change.png)
+
+### 5. Go to github then create pull request
+![Task Screenshot](git_pull_req.png)
+
+
+### 6. Open Owner github account and review PR.
+![Task Screenshot](git_see_req.png)
+
+### 7. Merge to codebase.
+![Task Screenshot](merge_git.png)
+
